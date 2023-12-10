@@ -15,7 +15,7 @@
     width: 105%;
     background-color: rgb(200, 189, 189);
 }
-@media screen and (min-width:330px) and (max-width:650px) {
+@media screen and (min-width:310px) and (max-width:620px) {
     .saved h2 {
       font-size: 20px;
       margin-left: 15px;

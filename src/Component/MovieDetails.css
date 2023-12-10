@@ -1,6 +1,5 @@
 .details{
    width: 102%;
-   height: 700px;
     padding-left: 50px;
     position: relative;
     background-color:rgb(200, 189, 189) ;
@@ -23,12 +22,10 @@
     position: absolute;
     margin-left:40px ;
  }
- @media screen and (min-width:330px) and (max-width:650px) {
+ @media screen and (min-width:310px) and (max-width:620px) {
    .details {
        padding-left: 20px;
-       width: 228%;
-       height: 100%;
-       background-color:rgb(200, 189, 189) ;
+       width: 212%;
    }
    .details h2 {
        font-size: 20px;
