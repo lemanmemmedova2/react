@@ -6,6 +6,6 @@
 @media screen and (min-width: 330px) and (max-width: 650px) {
     .div {
       flex-direction: column;
-      width: 190%;
+      width: 207%;
     }
   }
