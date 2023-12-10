@@ -1,0 +1,60 @@
+.list{
+    margin-left: 550px;
+    margin-top: 110px;
+    width: 490px;
+    height: 500px;
+    border: 1px solid grey;
+    border-radius: 20px;
+  position: relative;
+  background-color: rgb(239, 221, 227);
+  padding-top: 14px;
+}
+ul{
+    list-style-type: none;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+.list img{
+    width: 24px;
+    height: 20px;
+    margin-right: 8px;
+    border: 1px solid rgb(240, 35, 35);
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+.bottom{
+    width: 100px;
+    height: 36px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 1px solid grey;
+    background-color:rgb(200, 189, 189);
+   position: absolute;
+   bottom:1px;
+   right: 0;
+}
+.list label{
+    font-size: 24px;
+    margin-left: 12px;
+   
+}
+.list input{
+    height: 34px;
+    width: 300px;
+   font-size: 19px;
+   font-weight: 500;
+   color: black;
+}
+@media screen and  (min-width:330px) and (max-width:650px){
+    .list {
+        margin: 20px;
+    }
+    .list input {
+        width: 50%;
+    }
+    .bottom {
+        width: auto;
+    }
+}
