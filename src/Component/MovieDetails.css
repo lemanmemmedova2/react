@@ -1,32 +1,32 @@
 .details{
-   width: 100%;
+   width: 102%;
    height: 1000px;
     padding-left: 50px;
     position: relative;
     background-color:rgb(200, 189, 189) ;
 }
 .details h2{
-    font-size: 28px;
+    font-size: 26px;
     margin-bottom: 6px;
     padding-top: 10px;
     color:  rgb(65, 78, 78);
  }
  .details p{
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 20px;
  }
  .details img{
-   width: 360px;
+   width: 300px;
  }
  .details a{
-    font-size: 26px;
+    font-size: 22px;
     position: absolute;
     margin-left:40px ;
  }
  @media screen and (min-width:330px) and (max-width:650px) {
    .details {
        margin-left: 20px;
-      
+       height: 0px;
    }
    .details h2 {
        font-size: 20px;

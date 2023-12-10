@@ -1,9 +1,11 @@
 .div{
     display: flex;
     background-color: rgb(200, 189, 189);
+    width: 105%;
 }
 @media screen and (min-width: 330px) and (max-width: 650px) {
     .div {
       flex-direction: column;
+      width: 190%;
     }
   }
