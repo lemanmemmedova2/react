@@ -117,8 +117,8 @@ ul{
     .list {
       margin: 20px;
       width: auto;
-      margin-left: 10px; /* Adjust as needed */
-      margin-right: 10px; /* Adjust as needed */
+      margin-left: 10px; 
+      margin-right: 10px; 
     }
     
     .list input {
@@ -127,8 +127,8 @@ ul{
     
     .bottom {
       width: 100%;
-      margin-left: 10px; /* Adjust as needed */
-      margin-right: 10px; /* Adjust as needed */
+      margin-left: 10px; 
+      margin-right: 10px; 
     }
   }
   
