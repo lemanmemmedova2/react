@@ -1,11 +1,23 @@
 .div{
     display: flex;
     background-color: rgb(200, 189, 189);
-    width: 105%;
+    width: 100%;
 }
 @media screen and (min-width: 310px) and (max-width: 620px) {
     .div {
       flex-direction: column;
-      width: 217%;
+      width: 50%;
+    }
+  }
+  .div {
+    display: flex;
+    background-color: rgb(200, 189, 189);
+    width: 100%;
+  }
+  
+  @media screen and (min-width: 310px) and (max-width: 620px) {
+    .div {
+      flex-direction: column;
+      width: 100%; /* Adjusted to 100% */
     }
   }

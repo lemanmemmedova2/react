@@ -18,9 +18,9 @@
     .header p {
         font-size: 24px;
         padding-left: 25px;
-        width: 120%;
+        width: 100%;
     }
     .header{
-        width: 704px;
+        width: 100%;
     }
 }

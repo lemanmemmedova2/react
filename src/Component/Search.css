@@ -64,7 +64,10 @@
 @media screen and  (min-width:310px) and (max-width:620px){
     .box {
         margin: 20px;
-        width: 700px;
+        width: 100%;
+    }
+    .box img{
+        
     }
     .button2{
         width: 30%;
